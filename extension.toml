@@ -1,0 +1,11 @@
+id = "func"
+name = "FunC"
+version = "0.1.0"
+schema_version = 1
+authors = ["Makis Christou makis_christou@protonmail.com"]
+description = "Adds funC syntax highlighting and basic language configuration to Zed."
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-func"
+
+[grammars.func]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-func"
+rev = "f780ca55e65e7d7360d0229331763e16c452fc98"
